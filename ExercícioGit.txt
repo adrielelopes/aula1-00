@@ -1,0 +1,12 @@
+1. 
+a) git init: Cria um repositório Git vazio ou reinicializa um existente
+b) git clone: Clona um repositório em um novo diretório
+c) git branch: Listar, criar ou excluir branches
+d) git checkout:  Alternar branches ou restaurar arquivos da árvore de trabalho
+e) git fetch: Baixar objetos e referências de outro repositório
+f) git pull: Busca e integra com outro repositório ou branche local
+g) git add: Adiciona o conteúdo do arquivo ao índice
+h) git commit: Registra as alterações no repositório
+i) git push:  Atualizar referências remotas junto com objetos associados
+
+2) O Fetch traz o histórico de mudanças do repositório remoto para o repositório local sem alterar os arquivos no repositório local. O Pull traz o histórico de alterações e também as modifica na área de trabalho sobrescrevendo a versão atual. 
